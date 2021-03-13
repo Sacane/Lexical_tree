@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "lexicaltree.h": "c",
+        "save.h": "c",
+        "opt.h": "c"
+    }
+}
