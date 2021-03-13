@@ -45,7 +45,6 @@ void draw(FILE *f, Tree a){
 
 }
 
-
 void create_pdf(char* dot, char* pdf, Tree a){
 	if(!a){
 		printf("nuuuull\n");
