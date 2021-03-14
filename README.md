@@ -1,6 +1,7 @@
 # Lexical_tree
 
 By Johan "Sacane" Ramaroson Rakotomihamina and Christine Li 
+
 Langage : C
 
 Lexical management using ternary tree's algorithm.
