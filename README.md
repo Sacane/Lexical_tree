@@ -18,12 +18,12 @@ From there the program bring you to the menu in the terminal, just follow the in
 
 You can also use the program with options : 
 
-```./Lexique -l <namefile>``` : Allow you to display the words of the given file according to the lexical order.
+*```./Lexique -l <namefile>``` : Allow you to display the words of the given file according to the lexical order.
 
 
-• ```./Lexique -s <nameFile>``` : Allow to save in a new file, the words of the lexicon in the lexical order of the given file. The new file's name will be the same as the given followed by the suffix ".LEX".
+* ```./Lexique -s <nameFile>``` : Allow to save in a new file, the words of the lexicon in the lexical order of the given file. The new file's name will be the same as the given followed by the suffix ".LEX".
 
-• ```./Lexique -r <word> <namefile>``` : Check if the given word is in the given file. 
-• ```./Lexique -S <fileName>``` : Allow to save the tree builded by the given file, its name will be the same as the given file followed by the suffix ".DIC"
-• ```./Lexique -d <nameFile> <file.dot>``` : Allow you to generate a file.pdf which represents the tree builded by the given file.
+* ```./Lexique -r <word> <namefile>``` : Check if the given word is in the given file. 
+* ```./Lexique -S <fileName>``` : Allow to save the tree builded by the given file, its name will be the same as the given file followed by the suffix ".DIC"
+* ```./Lexique -d <nameFile> <file.dot>``` : Allow you to generate a file.pdf which represents the tree builded by the given file.
   BEWARE : For this option you have to specify an empty file with the suffix ".dot" to make it works (the program will generate it if the file doesn't exists yet).
