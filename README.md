@@ -12,7 +12,7 @@ This program is able to store words from a file and manipulate them as the progr
 You can use the makefile folder to compile sources and generate the executable "Lexique" by the command : make 
 and then execute the program : ./Lexique
 
-From the program bring you to the menu in the terminal, just follow the instructions and enjoyt it ! 
+From there the program bring you to the menu in the terminal, just follow the instructions and enjoyt it ! 
 
 ## Command line
 
