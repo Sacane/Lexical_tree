@@ -18,7 +18,7 @@ From there the program bring you to the menu in the terminal, just follow the in
 
 You can also use the program with options : 
 
-*```./Lexique -l <namefile>``` : Allow you to display the words of the given file according to the lexical order.
+* ```./Lexique -l <namefile>``` : Allow you to display the words of the given file according to the lexical order.
 
 
 * ```./Lexique -s <nameFile>``` : Allow to save in a new file, the words of the lexicon in the lexical order of the given file. The new file's name will be the same as the given followed by the suffix ".LEX".
